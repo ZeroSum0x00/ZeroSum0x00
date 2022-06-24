@@ -1,7 +1,10 @@
-### Hi there 👋
+![stats](https://github-readme-stats.vercel.app/api?username=ZeroSum0x00&count_private=true)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroSum0x00)
+
+<!--### Hi there 👋 -->
 
 <!--
-**ZeroSum0x00/ZeroSum0x00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ZeroSum0x00/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
