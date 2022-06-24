@@ -1,6 +1,5 @@
 ### Hi there 👋, ZeroSum0x00
-#### Tensorflow
-[Tensorflow](https://www.artefact.com/wp-content/uploads/2019/10/image00.0.0.jpg)
+![Tensorflow](https://bizflyportal.mediacdn.vn/bizflyportal/1453/2428/2021/05/13/21/21/ten16208940807508.jpg)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=ZeroSum0x00&count_private=true)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroSum0x00)
